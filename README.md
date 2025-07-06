@@ -13,10 +13,10 @@ You can calculate Cp/Cpk in:
 
 Steps:
 
-✅ Step 1: Convert Excel to Flattened CSV Format
+  ✅ Step 1: Convert Excel to Flattened CSV Format
 
-🛠️ Step 2: Create MySQL Table
+  🛠️ Step 2: Create MySQL Table
 
-📥 Step 3: Import CSV into MySQL
+  📥 Step 3: Import CSV into MySQL
 
-📊 Step 4: Run SQL query to calculate Cp/Cpk
+  📊 Step 4: Run SQL query to calculate Cp/Cpk
